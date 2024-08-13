@@ -1,11 +1,9 @@
-/* General styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/* Navbar styles */
 .navbar {
     position: fixed;
     top: 0;
@@ -36,12 +34,12 @@ body {
 }
 
 .nav-link:hover {
-    color: #ffcc00; /* Hover color */
+    color: #ffcc00; 
 }
 
 /* Change background color on scroll */
 .navbar.scrolled {
-    background-color: #222;
+    background-color: #0f0202;
 }
 
 /* Home section styles */
